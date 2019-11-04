@@ -1,0 +1,349 @@
+[FIDOCAD]
+RV 90 51 70 39 0
+TY 76 43 4 3 0 0 0 aakar IC1
+MC 45 50 0 0 180
+MC 60 50 1 0 170
+LI 70 45 25 45 0
+LI 45 50 45 45 0
+LI 60 45 60 50 0
+LI 45 65 45 60 0
+MC 100 50 1 0 170
+MC 115 50 0 0 180
+LI 60 60 60 65 0
+LI 100 60 100 65 0
+LI 115 65 115 60 0
+LI 150 122 136 122 0
+LI 115 45 115 50 0
+LI 100 45 100 50 0
+LI 80 51 80 65 0
+MC 88 30 0 1 200
+LI 60 45 60 30 0
+LI 60 30 73 30 0
+LI 88 30 100 30 0
+LI 100 30 100 45 0
+TY 10 43 4 3 0 0 0 aakar VCC
+TY 10 63 4 3 0 0 0 aakar GND
+LI 45 45 45 20 0
+LI 45 20 408 20 0
+TY 46 57 4 3 0 0 0 aakar C1
+TY 62 57 4 3 0 0 0 aakar C2
+TY 101 57 4 3 0 0 0 aakar C2
+TY 116 57 4 3 0 0 0 aakar C3
+TY 84 24 4 3 0 0 0 aakar D1
+LI 25 65 115 65 0
+RV 190 135 165 60 0
+LI 115 128 115 65 0
+LI 162 70 165 70 0
+LI 162 75 165 75 0
+LI 162 80 165 80 0
+LI 162 90 165 90 0
+LI 162 85 165 85 0
+MC 126 105 0 0 170
+LI 155 100 165 100 0
+LI 160 105 165 105 0
+LI 165 110 160 110 0
+LI 165 115 162 115 0
+LI 165 120 162 120 0
+LI 165 125 162 125 0
+LI 165 130 162 130 0
+LI 203 95 195 95 0
+LI 190 95 195 95 0
+LI 190 100 193 100 0
+LI 190 65 193 65 0
+LI 190 70 193 70 0
+LI 190 75 193 75 0
+LI 190 80 193 80 0
+LI 190 90 193 90 0
+LI 190 85 193 85 0
+LI 193 115 190 115 0
+LI 115 105 126 105 0
+LI 193 110 190 110 0
+TY 128 125 4 3 0 0 0 aakar C4
+LI 155 100 115 100 0
+TY 149 55 4 3 0 0 0 aakar R1
+MC 142 109 0 0 980
+LI 160 105 136 105 0
+LI 150 122 155 122 0
+LI 155 122 155 110 0
+LI 155 110 160 110 0
+MC 145 55 1 0 ey_libraries.pasres0
+MC 126 122 0 0 170
+LI 142 122 142 119 0
+LI 126 122 115 122 0
+TY 128 108 4 3 0 0 0 aakar C4
+LI 145 65 165 65 0
+LI 142 105 142 109 0
+TY 146 112 4 3 0 0 0 aakar Q1
+MC 300 20 0 0 ihram.ld01
+MC 300 30 0 0 ihram.ld01
+MC 300 40 0 0 ihram.ld01
+MC 300 55 1 0 ey_libraries.pasres0
+MC 245 75 0 0 300
+TY 304 55 4 3 0 0 0 aakar R2
+TY 304 43 4 3 0 0 0 aakar D2
+TY 304 33 4 3 0 0 0 aakar D2
+TY 304 23 4 3 0 0 0 aakar D2
+MC 315 40 0 0 ihram.ld01
+MC 315 55 1 0 ey_libraries.pasres0
+TY 319 55 4 3 0 0 0 aakar R2
+TY 319 43 4 3 0 0 0 aakar D2
+TY 319 33 4 3 0 0 0 aakar D2
+TY 319 23 4 3 0 0 0 aakar D2
+MC 315 20 0 0 ihram.ld01
+MC 315 30 0 0 ihram.ld01
+TY 334 55 4 3 0 0 0 aakar R2
+TY 334 43 4 3 0 0 0 aakar D2
+TY 334 33 4 3 0 0 0 aakar D2
+TY 334 23 4 3 0 0 0 aakar D2
+MC 330 20 0 0 ihram.ld01
+MC 330 30 0 0 ihram.ld01
+MC 330 40 0 0 ihram.ld01
+MC 330 55 1 0 ey_libraries.pasres0
+TY 349 23 4 3 0 0 0 aakar D2
+MC 345 55 1 0 ey_libraries.pasres0
+MC 345 20 0 0 ihram.ld01
+MC 345 30 0 0 ihram.ld01
+MC 345 40 0 0 ihram.ld01
+TY 349 43 4 3 0 0 0 aakar D2
+TY 349 55 4 3 0 0 0 aakar R2
+TY 349 33 4 3 0 0 0 aakar D2
+MC 360 20 0 0 ihram.ld01
+MC 360 30 0 0 ihram.ld01
+MC 360 40 0 0 ihram.ld01
+MC 360 55 1 0 ey_libraries.pasres0
+TY 364 55 4 3 0 0 0 aakar R2
+TY 364 43 4 3 0 0 0 aakar D2
+TY 364 33 4 3 0 0 0 aakar D2
+TY 364 23 4 3 0 0 0 aakar D2
+MC 375 40 0 0 ihram.ld01
+MC 375 55 1 0 ey_libraries.pasres0
+TY 379 55 4 3 0 0 0 aakar R2
+TY 379 43 4 3 0 0 0 aakar D2
+TY 379 33 4 3 0 0 0 aakar D2
+TY 379 23 4 3 0 0 0 aakar D2
+MC 375 30 0 0 ihram.ld01
+MC 375 20 0 0 ihram.ld01
+TY 394 55 4 3 0 0 0 aakar R2
+TY 394 43 4 3 0 0 0 aakar D2
+TY 394 33 4 3 0 0 0 aakar D2
+TY 394 23 4 3 0 0 0 aakar D2
+MC 390 30 0 0 ihram.ld01
+MC 390 40 0 0 ihram.ld01
+MC 390 55 1 0 ey_libraries.pasres0
+MC 390 20 0 0 ihram.ld01
+LI 260 65 390 65 0
+TY 334 93 4 3 0 0 0 aakar D2
+TY 334 83 4 3 0 0 0 aakar D2
+TY 334 73 4 3 0 0 0 aakar D2
+MC 330 70 0 0 ihram.ld01
+MC 330 80 0 0 ihram.ld01
+MC 330 90 0 0 ihram.ld01
+MC 330 105 1 0 ey_libraries.pasres0
+TY 349 73 4 3 0 0 0 aakar D2
+MC 345 105 1 0 ey_libraries.pasres0
+MC 345 70 0 0 ihram.ld01
+MC 345 80 0 0 ihram.ld01
+MC 345 90 0 0 ihram.ld01
+TY 349 93 4 3 0 0 0 aakar D2
+TY 349 105 4 3 0 0 0 aakar R2
+TY 349 83 4 3 0 0 0 aakar D2
+MC 360 70 0 0 ihram.ld01
+MC 360 80 0 0 ihram.ld01
+MC 360 90 0 0 ihram.ld01
+MC 360 105 1 0 ey_libraries.pasres0
+TY 364 105 4 3 0 0 0 aakar R2
+TY 364 93 4 3 0 0 0 aakar D2
+TY 364 83 4 3 0 0 0 aakar D2
+TY 364 73 4 3 0 0 0 aakar D2
+MC 375 90 0 0 ihram.ld01
+MC 375 105 1 0 ey_libraries.pasres0
+TY 379 105 4 3 0 0 0 aakar R2
+TY 379 93 4 3 0 0 0 aakar D2
+TY 379 83 4 3 0 0 0 aakar D2
+TY 379 73 4 3 0 0 0 aakar D2
+MC 375 80 0 0 ihram.ld01
+MC 375 70 0 0 ihram.ld01
+TY 394 105 4 3 0 0 0 aakar R2
+TY 394 93 4 3 0 0 0 aakar D2
+TY 394 83 4 3 0 0 0 aakar D2
+TY 394 73 4 3 0 0 0 aakar D2
+MC 390 80 0 0 ihram.ld01
+MC 390 90 0 0 ihram.ld01
+MC 390 105 1 0 ey_libraries.pasres0
+MC 390 70 0 0 ihram.ld01
+TY 319 83 4 3 0 0 0 aakar D2
+MC 300 70 0 0 ihram.ld01
+MC 300 80 0 0 ihram.ld01
+MC 300 90 0 0 ihram.ld01
+MC 300 105 1 0 ey_libraries.pasres0
+TY 304 105 4 3 0 0 0 aakar R2
+TY 304 93 4 3 0 0 0 aakar D2
+TY 304 83 4 3 0 0 0 aakar D2
+TY 304 73 4 3 0 0 0 aakar D2
+MC 315 90 0 0 ihram.ld01
+MC 315 105 1 0 ey_libraries.pasres0
+TY 319 105 4 3 0 0 0 aakar R2
+TY 319 93 4 3 0 0 0 aakar D2
+MC 315 80 0 0 ihram.ld01
+TY 319 73 4 3 0 0 0 aakar D2
+MC 315 70 0 0 ihram.ld01
+TY 334 105 4 3 0 0 0 aakar R2
+LI 283 70 408 70 0
+LI 408 120 408 20 0
+TY 394 143 4 3 0 0 0 aakar D2
+TY 394 133 4 3 0 0 0 aakar D2
+TY 394 123 4 3 0 0 0 aakar D2
+MC 390 130 0 0 ihram.ld01
+MC 390 140 0 0 ihram.ld01
+MC 390 155 1 0 ey_libraries.pasres0
+MC 390 120 0 0 ihram.ld01
+TY 319 133 4 3 0 0 0 aakar D2
+MC 300 120 0 0 ihram.ld01
+MC 300 130 0 0 ihram.ld01
+MC 300 140 0 0 ihram.ld01
+MC 300 155 1 0 ey_libraries.pasres0
+TY 304 155 4 3 0 0 0 aakar R2
+TY 304 143 4 3 0 0 0 aakar D2
+TY 304 133 4 3 0 0 0 aakar D2
+TY 304 123 4 3 0 0 0 aakar D2
+MC 315 140 0 0 ihram.ld01
+MC 315 155 1 0 ey_libraries.pasres0
+TY 319 155 4 3 0 0 0 aakar R2
+TY 319 143 4 3 0 0 0 aakar D2
+MC 315 130 0 0 ihram.ld01
+TY 319 123 4 3 0 0 0 aakar D2
+MC 315 120 0 0 ihram.ld01
+TY 334 155 4 3 0 0 0 aakar R2
+LI 300 120 408 120 0
+TY 364 133 4 3 0 0 0 aakar D2
+TY 364 123 4 3 0 0 0 aakar D2
+MC 375 140 0 0 ihram.ld01
+MC 375 155 1 0 ey_libraries.pasres0
+TY 379 155 4 3 0 0 0 aakar R2
+TY 379 143 4 3 0 0 0 aakar D2
+TY 379 133 4 3 0 0 0 aakar D2
+TY 379 123 4 3 0 0 0 aakar D2
+MC 375 130 0 0 ihram.ld01
+MC 375 120 0 0 ihram.ld01
+TY 394 155 4 3 0 0 0 aakar R2
+TY 349 133 4 3 0 0 0 aakar D2
+MC 360 120 0 0 ihram.ld01
+MC 360 130 0 0 ihram.ld01
+MC 360 140 0 0 ihram.ld01
+TY 334 143 4 3 0 0 0 aakar D2
+TY 334 133 4 3 0 0 0 aakar D2
+TY 334 123 4 3 0 0 0 aakar D2
+MC 330 120 0 0 ihram.ld01
+MC 330 130 0 0 ihram.ld01
+MC 330 140 0 0 ihram.ld01
+MC 330 155 1 0 ey_libraries.pasres0
+TY 349 123 4 3 0 0 0 aakar D2
+MC 345 155 1 0 ey_libraries.pasres0
+MC 345 120 0 0 ihram.ld01
+MC 345 130 0 0 ihram.ld01
+MC 345 140 0 0 ihram.ld01
+TY 349 143 4 3 0 0 0 aakar D2
+TY 349 155 4 3 0 0 0 aakar R2
+MC 360 155 1 0 ey_libraries.pasres0
+TY 364 155 4 3 0 0 0 aakar R2
+TY 364 143 4 3 0 0 0 aakar D2
+MC 245 125 0 0 300
+MC 245 175 0 0 300
+LI 260 115 390 115 0
+LI 260 165 390 165 0
+MC 260 82 0 0 040
+MC 260 132 0 0 040
+MC 260 182 0 0 040
+MC 200 95 0 0 040
+MC 115 128 0 0 040
+LI 230 125 190 125 0
+LI 220 130 190 130 0
+LI 220 75 220 120 0
+LI 220 120 190 120 0
+LI 220 130 220 175 0
+LI 130 95 165 95 0
+LI 190 105 213 105 0
+LI 90 45 213 45 0
+LI 130 95 130 45 0
+LI 213 105 213 45 0
+LI 145 45 145 50 0
+TY 287 73 4 3 0 0 0 aakar D2
+MC 283 105 1 0 ey_libraries.pasres0
+MC 283 70 0 0 ihram.ld01
+MC 283 80 0 0 ihram.ld01
+MC 283 90 0 0 ihram.ld01
+TY 287 93 4 3 0 0 0 aakar D2
+TY 287 105 4 3 0 0 0 aakar R2
+TY 287 83 4 3 0 0 0 aakar D2
+TY 174 95 4 3 0 0 0 aakar IC2
+TY 265 73 4 3 0 0 0 aakar T1
+TY 265 123 4 3 0 0 0 aakar T1
+TY 265 173 4 3 0 0 0 aakar T1
+TY 205 88 4 3 0 0 0 aakar C3
+MC 213 95 1 0 180
+MC 75 73 2 0 170
+MC 240 75 2 0 ey_libraries.pasres0
+LI 220 75 230 75 0
+TY 235 66 4 3 0 0 0 aakar R1
+TY 235 116 4 3 0 0 0 aakar R1
+MC 240 125 2 0 ey_libraries.pasres0
+TY 235 166 4 3 0 0 0 aakar R1
+MC 240 175 2 0 ey_libraries.pasres0
+LI 220 175 230 175 0
+TY 184 68 4 3 0 0 2 aakar 27
+TY 184 103 4 3 0 0 2 aakar 20
+TY 184 63 4 3 0 0 2 aakar 28
+TY 166 78 4 3 0 0 2 aakar 04
+TY 184 78 4 3 0 0 2 aakar 25
+TY 184 98 4 3 0 0 2 aakar 21
+TY 166 113 4 3 0 0 2 aakar 11
+TY 166 93 4 3 0 0 2 aakar 07
+TY 67 46 4 3 0 0 2 aakar 1
+TY 184 113 4 3 0 0 2 aakar 18
+TY 166 128 4 3 0 0 2 aakar 14
+TY 166 118 4 3 0 0 2 aakar 12
+TY 166 68 4 3 0 0 2 aakar 02
+TY 184 73 4 3 0 0 2 aakar 26
+TY 81 52 4 3 0 0 2 aakar 2
+TY 166 103 4 3 0 0 2 aakar 09
+TY 166 88 4 3 0 0 2 aakar 06
+TY 184 93 4 3 0 0 2 aakar 22
+TY 184 88 4 3 0 0 2 aakar 23
+TY 166 73 4 3 0 0 2 aakar 03
+TY 166 108 4 3 0 0 2 aakar 10
+TY 166 63 4 3 0 0 2 aakar 01
+TY 184 108 4 3 0 0 2 aakar 19
+TY 184 118 4 3 0 0 2 aakar 17
+TY 166 83 4 3 0 0 2 aakar 05
+TY 184 128 4 3 0 0 2 aakar 15
+TY 91 46 4 3 0 0 2 aakar 3
+TY 166 98 4 3 0 0 2 aakar 08
+TY 166 123 4 3 0 0 2 aakar 13
+TY 184 83 4 3 0 0 2 aakar 24
+TY 184 123 4 3 0 0 2 aakar 16
+TY 10 106 4 3 0 0 7 aakar CTS
+TY 10 101 4 3 0 0 7 aakar VCC
+TY 67 76 4 3 0 0 7 aakar C2
+TY 10 96 4 3 0 0 7 aakar TX
+TY 10 86 4 3 0 0 7 aakar DTR
+LI 145 73 145 65 7
+TY 10 111 4 3 0 0 7 aakar GND
+LI 150 87 150 70 7
+LI 100 87 150 87 7
+LI 150 70 162 70 7
+LI 25 98 100 98 7
+LI 100 98 100 87 7
+LI 25 93 90 93 7
+LI 90 93 90 80 7
+LI 157 80 157 75 7
+LI 90 80 157 80 7
+LI 157 75 162 75 7
+LI 25 113 115 113 7
+TY 10 91 4 3 0 0 7 aakar RX
+LI 25 103 110 103 7
+LI 110 103 110 95 7
+LI 110 95 130 95 7
+LI 25 88 45 88 7
+LI 45 88 45 73 7
+LI 45 73 65 73 7
+LI 75 73 145 73 7
